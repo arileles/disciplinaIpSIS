@@ -383,7 +383,7 @@ Fontes: [src](./Unidade6/src "src")
 <!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->
 
 <!-- Aviso: Unidades 7 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266044> -->
-### [Unidade6-Atividades](Unidade6 “Unidade6-Atividades”) Prazo: 14-06-2022 terça-feira
+### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 14-06-2022 terça-feira
 
 - Assistir as videoaulas da Unidades7  
 - Responder o [Unidade7_Questionário]  
@@ -423,7 +423,7 @@ Fontes: [src](./Unidade7/src "src")
 
 - desenvolvimento do trabalho final.  
 
-### [Unidade7-Atividades](Unidade7 "Unidade7-Atividades”) Prazo: 28-06-2022 terça-feira
+### [Unidade7-Atividades](Unidade7 "Unidade7-Atividades") Prazo: 28-06-2022 terça-feira
 
 - entrega do Trabalho Final  
 
