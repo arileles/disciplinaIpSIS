@@ -3,7 +3,7 @@
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	23-02-2022	quarta		23-02-2022	quarta
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222> "PlanoEnsinoAVA"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222&section=1> "PlanoEnsinoAVA"  
 
 # Algumas anotações das aulas
 
