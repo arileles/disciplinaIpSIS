@@ -139,7 +139,7 @@ Fontes: [src](./Unidade3/src "src")
 - [atividadeUri](Unidade3/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade3/atividadeAula.md "atividadeAula")  
 - Assistir a videoaula da Unidades4  
-- Responder o [Unidade4_Questionário] <!-- FIXME: fazer um questionário para unidade4 -->  
+<!-- Responder o [Unidade4_Questionário]  FIXME: fazer um questionário para unidade4 -->  
 
 -----------
 
