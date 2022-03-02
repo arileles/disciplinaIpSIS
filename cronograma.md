@@ -47,7 +47,7 @@ Fontes: [src](./Unidade1/src "src")
 - apresentação, plano de ensino e AVA3: [PlanoEnsinoAVA]  
 - conteúdo e cronograma (aulas teóricas x práticas), frequências e avaliações (DION), e bibliografia;  
 - créditos em sala (6) x créditos a distância (1);  
-- sala de aula invertida: vídeos aulas, slides e práticas;  
+- sala de aula invertida: vídeos aulas, conteúdo e práticas;  
 - horário do monitor.  
 
 ### [Aula_02](Unidade1/aula.md#Aula_02 "02-03-2022 quarta-feira") 02-03-2022 quarta-feira

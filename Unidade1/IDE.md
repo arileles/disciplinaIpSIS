@@ -35,13 +35,15 @@ Selecione Versão para Windows – Stable Build. Dois clicks no arquivo, e next,
 
 A instalação das extensões é feita direto dentro do VSCode. Para isto, abra o VSCode, é vá para barra lateral “Extensions”. No campo de texto que aparecer digite: java, e na primeira ocorrência de “Java Extension Pack” clicar em install.
 
-<!-- Caso queira listar quais extensões está usando pode usar os comando em:  
+<!-- 
+Caso queira listar quais extensões está usando pode usar os comando em (mas só se quiser):  
 Unix:  
 > code --list-extensions | xargs -L 1 echo code --install-extension
 
 Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):  
 > code --list-extensions | % { "code --install-extension $_" }
 -->
+
 Ao instalar a extensão “Java Extension Pack” outras extensões devem ser instaladas outras extensões junto, e no final deve ter estas extensões:
 
 ![Extensões Java no VSCode](./imgs/IDEjavaExtensoes.png "Extensões Java no VSCode")  
