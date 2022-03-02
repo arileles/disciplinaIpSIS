@@ -111,6 +111,8 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
   
 - fluxograma  
 
+## [Atividades - Aula](atividadeAula.md "Atividades - Aula")  
+
 ## Ambiente de Desenvolvimento Prático - Apoio
 
 - [ ] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
