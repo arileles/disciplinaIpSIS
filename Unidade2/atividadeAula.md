@@ -3,6 +3,8 @@
 Utilizando a lista de exercícios abaixo procure entender o enunciado do problema e completar o formulário [2_MetodoAlgoritmos_formulario.docx](2_MetodoAlgoritmos_formulario.docx "2_MetodoAlgoritmos_formulario.docx").  
 
 ----------
+Enunciado:
+
 
 1. ANÁLISE: informe se na descrição do problema encontram-se todos os elementos necessários para sua solução.  
 
@@ -16,6 +18,8 @@ Utilizando a lista de exercícios abaixo procure entender o enunciado do problem
 5.1 Fluxograma  
 5.2 Algoritmo  
 5.3 TESTE DE MESA: coloque as variáveis e indique seu conteúdo durante a execução.  
+
+Para fazer os fluxogramas uma opção pode ser o [https://app.diagrams.net/](https://app.diagrams.net/ "https://app.diagrams.net/") ou [https://sketch.diagrams.net/](https://sketch.diagrams.net/ "https://sketch.diagrams.net/").  
 
 ----------
 
