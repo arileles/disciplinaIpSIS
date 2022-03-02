@@ -19,12 +19,6 @@ Utilizando a lista de exercícios abaixo procure entender o enunciado do problem
 
 ----------
 
-## Uni3Exe01.java
-
-Uma imobiliária vende apenas terrenos retangulares. Faça um programa para ler as dimensões de um terreno e depois exibir a área do terreno.  
-
-----------
-
 ## Uni2Exe01 [1][1001]  
 
 Leia 2 valores inteiros e imprima sua soma.  

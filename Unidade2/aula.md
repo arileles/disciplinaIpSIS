@@ -113,6 +113,8 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 
 ## [Atividades - Aula](atividadeAula.md "Atividades - Aula")  
 
+Vamos praticar um pouco com alguns enunciados ...  
+
 ## Ambiente de Desenvolvimento Prático - Apoio
 
 - [ ] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
