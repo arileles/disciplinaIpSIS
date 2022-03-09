@@ -36,7 +36,7 @@
 Local: S-403  
 Dia da semana: segundas (9:30\~11:10) e quartas (7:30\~11:10)  
 
-<!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
+<!-- [@] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
 ## [Unidade1](Unidade1 "Unidade1")  
 
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -54,8 +54,8 @@ Fontes: [src](./Unidade1/src "src")
 
 - visão geral dos fundamentos da programação de computadores;  
 - conversa individual com os alunos (depois nos exercícios).  
-- liberar material da próxima unidade (1 e 2).  
-<!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
+- **liberar material** da próxima unidade (1 e 2).  
+<!-- [@] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
 
 ### [Aula_03](Unidade1/aula.md#Aula_03 "07-03-2022 segunda-feira") 07-03-2022 segunda-feira
 
@@ -84,8 +84,8 @@ Fontes: [src](Unidade2/src "src")
 ### [Aula_05](Unidade2/aula.md#Aula_05 "09-03-2022 quarta-feira") 09-03-2022 quarta-feira
 
 - método de resolução de algoritmos.  
-- liberar material da próxima unidade (3).  
-<!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
+- **liberar material** da próxima unidade (3).  
+<!-- [@] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
 
 ### [Aula_06](Unidade2/aula.md#Aula_06 "14-03-2022 segunda-feira") 14-03-2022 segunda-feira
 
@@ -127,7 +127,7 @@ Fontes: [src](./Unidade3/src "src")
 
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
-- liberar material da próxima unidade (4).  
+- **liberar material** da próxima unidade (4).  
 <!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->
 <!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->
 
@@ -195,7 +195,7 @@ Fontes: [src](./Unidade4/src "src")
 ### [Aula_20](Unidade4/aula.md#Aula_20 "13-04-2022 quarta-feira") 13-04-2022 quarta-feira
 
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
-- liberar material da próxima unidade (5).  
+- **liberar material** da próxima unidade (5).  
 
 ### [Aula_21](Unidade4/aula.md#Aula_21 "18-04-2022 segunda-feira") 18-04-2022 segunda-feira
 
@@ -221,7 +221,7 @@ Fontes: [src](./Unidade4/src "src")
 - Prova1  
 <!-- - Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  -->
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->
-- liberar material da próxima unidade (5).  
+- **liberar material** da próxima unidade (5).  
 
 ### [Aula_24](Unidade4/aula.md#Aula_24 "25-04-2022 segunda-feira") 25-04-2022 segunda-feira
 
@@ -290,7 +290,7 @@ Fontes: [src](./Unidade5/src "src")
   - Grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 - conversa com os alunos (individualmente).  
-- liberar material da próxima unidade (6).  
+- **liberar material** da próxima unidade (6).  
 
 ### [Aula_33](Unidade5/aula.md#Aula_33 "16-05-2022 segunda-feira") 16-05-2022 segunda-feira
 
@@ -356,7 +356,7 @@ Fontes: [src](./Unidade6/src "src")
 
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
-- liberar material da próxima unidade (7).  
+- **liberar material** da próxima unidade (7).  
 
 ### [Aula_42](Unidade7/aula.md#Aula_42 "06-06-2022 segunda-feira") 06-06-2022 segunda-feira
 

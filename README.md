@@ -55,6 +55,7 @@ E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
 
 ----
 
+<!--
 ## WakaTime
 
 ![DashBoard](https://wakatime.com/share/@dalton_reis/bdb5b58b-d49f-4716-8757-bcf4995b4cf6.svg "DashBoard")  
@@ -62,3 +63,5 @@ E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
 [![disciplinaIpPrivado](https://wakatime.com/badge/github/dalton-reis/disciplinaIpPrivado.svg)](https://wakatime.com/badge/github/dalton-reis/disciplinaIpPrivado)  
 
 [Wakatime DashBoard](<https://wakatime.com/@dalton_reis/projects/jaxdrmqjfo?start=2021-11-03&end=2021-11-09> "Wakatime DashBoard")
+
+-->
