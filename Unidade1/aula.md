@@ -185,11 +185,11 @@ Entrada __
 
 Processo __  
     // Calcular a média  
-    média = (nota1 + nota2 + nota3) / 3  
+    media = (nota1 + nota2 + nota3) / 3  
 
 Saída __  
     // escrever a média  
-    escrever(média)  
+    escrever(media)  
 
 Bom, depois destas etapas vamos para:  
 
@@ -246,7 +246,7 @@ Processo __
     area = largura x altura  
 
 Saída __  
-
+    // escrever a área  
     escrever(area)  
 
 descrever solução formalmente __  
