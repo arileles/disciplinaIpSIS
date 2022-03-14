@@ -121,4 +121,4 @@ Vamos praticar um pouco com alguns enunciados ...
 
 ## Ambiente de Desenvolvimento Prático - Apoio
 
-- [ ] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
+- [x] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
