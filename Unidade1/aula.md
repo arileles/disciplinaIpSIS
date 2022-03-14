@@ -149,7 +149,8 @@ Ou ainda um enunciado "magrinho", mas as vezes se tem situações com falta de i
 
 Uma aceitável e se ter uma descrição sucinta, mas que tenha todas as informações necessárias para poder resolver o problema.  
 
-    Um professor deseja calcular a média de um aluno. O professor tem o nome e as 3 notas do aluno e a média deve ser calculada de forma aritmética.​  
+    Um professor deseja calcular a média de um aluno. O professor tem o nome e as  
+    3 notas do aluno e a média deve ser calculada de forma aritmética.​  
 
 Então vamos para primeira etapa:  
 
