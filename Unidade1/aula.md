@@ -138,7 +138,10 @@ ATENÇÃO: lembrem de irem instalando o "Ambiente de Desenvolvimento Prático" .
 
 As vezes o enunciado pode ter "gorduras" ...  
 
-    Era uma vez, uma pessoa que estava na praia. Esta pessoa conhecia um professor e este professor tinha um problema para resolver. O seu problema era que ele tinha que considerar uma situação que ele poderia ter 3 notas de um aluno e com elas poderia calcular a média deste aluno.  
+    Era uma vez, uma pessoa que estava na praia. Esta pessoa conhecia um professor  
+    e este professor tinha um problema para resolver. O seu problema era que ele  
+    tinha que considerar uma situação que ele poderia ter 3 notas de um aluno e  
+    com elas poderia calcular a média deste aluno.  
 
 Ou ainda um enunciado "magrinho", mas as vezes se tem situações com falta de informações que não permitem solucionar o problema ... no caso, quantas notas para calcular a média?  
 
