@@ -8,6 +8,6 @@ public class ClasseB {
   }
 
   public void imprimir() {
-    System.out.println("ClasseB.impriir: " + teste);
+    System.out.println("ClasseB.imprimir: " + teste);
   }
 }
