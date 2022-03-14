@@ -237,7 +237,7 @@ Não usado __
     metros  
 
 Entrada __  
-    /  ter a largura e altura  
+    // ter a largura e altura  
     largura = 3  
     altura = 7  
 
