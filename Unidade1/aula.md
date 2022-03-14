@@ -263,4 +263,4 @@ descrever solução formalmente __
 
 ## Ambiente de Desenvolvimento Prático - Apoio
 
-- [@] [Ambiente de Desenvolvimento Prático](IDE.md "Ambiente de Desenvolvimento Prático").  
+- [x] [Ambiente de Desenvolvimento Prático](IDE.md "Ambiente de Desenvolvimento Prático").  
