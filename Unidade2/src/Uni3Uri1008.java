@@ -1,4 +1,4 @@
-public class URI_1008 {
+public class Uni3Uri1008 {
 
   public static void main(String[] args) {
     // Entrada
