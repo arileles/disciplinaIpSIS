@@ -25,7 +25,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 
 [AVA3]  
 [PlanoEnsinoAVA]  
-<!-- [Prova de Suficiência (inscrição)]  ->  
+<!-- [Prova de Suficiência (inscrição)]  -->  
 [Aulas MS-Teams]  
 <!-- [Gravações das aulas]  -->
 [Monitoria](./monitorHorario.md "Monitoria")  
