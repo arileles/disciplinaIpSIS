@@ -20,9 +20,9 @@ Mensagem "do dia", do programador ...
 - Boas práticas de programação -> legibilidade do código  
   - [Indentação de código](<https://pt.wikipedia.org/wiki/Indentação> "Indentação de código");  
   - VSCode Formatar Documento (menu de contexto no código ou teclas ⇧⌥F macOs/Linux e teclas SHIFT+CRTL+F).  
-- [ ] Criar um novo projeto no VSCode para representar a Unidade 3 com o nome "Unidade3". Assim, lembrar como criar projeto e classe.  
-- [ ] Resgatar conteúdo da Unidade 3 e mostrar o que é classe e o que é o método main de forma superficial. Lembrar que todo o código vai dentro do método main!  
-- [ ] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
+- [x] Criar um novo projeto no VSCode para representar a Unidade 3 com o nome "Unidade3". Assim, lembrar como criar projeto e classe.  
+- [x] Resgatar conteúdo da Unidade 3 e mostrar o que é classe e o que é o método main de forma superficial. Lembrar que todo o código vai dentro do método main!  
+- [x] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
 
 <!-- TODO: 
 comentar de saber quais imports devem ser usados.
@@ -32,8 +32,8 @@ Pode usar View / Command Palette / >Organize Imports .. mas saber decidir qual u
 
 ### [Atividades - Aula](atividadeAula.md "Atividades - Aula")  
 
-- [ ] [Uni3Exe01.java](src/Uni3Exe01.java "Uni3Exe01.java") <!-- prof. completo -->  
-- [ ] [Uni3Exe02.java](src/Uni3Exe02.java "Uni3Exe02.java") <!-- prof. algoritmo 5 min. -->  
+- [x] [Uni3Exe01.java](src/Uni3Exe01.java "Uni3Exe01.java") <!-- prof. completo -->  
+- [x] [Uni3Exe02.java](src/Uni3Exe02.java "Uni3Exe02.java") <!-- prof. algoritmo 5 min. -->  
 - [ ] [Uni3Exe03.java](src/Uni3Exe03.java "Uni3Exe03.java") <!-- 10 min. -->  
 
 ----
