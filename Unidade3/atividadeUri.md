@@ -11,7 +11,7 @@ Bom, agora vocês devem acessar o link
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: IP_SIS_NOT_A [2022-1].  
 
 <!-- [x]TODO:INICIO atualizar -->
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): ZU1.Vu  
+Assim que acessar a disciplina informe a seguinte chave de acesso (token): 2ZU1.Vu  
 
 Mas ATENÇÃO, usem o e-mail da furb (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
 
