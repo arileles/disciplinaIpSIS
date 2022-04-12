@@ -224,9 +224,6 @@ Fontes: [src](./Unidade4/src "src")
 - Correção Prova1  
 <!-- [ ] Aviso: Prova1 correção <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-58035800> -->
 
-<!-- Aviso: Unidades 5 atividades <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-59665031> -->
-### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 01-05-2022	domingo
-
 - Assistir as videoaulas da Unidades5  
 - Responder o [Unidade5_Questionário]  
 
