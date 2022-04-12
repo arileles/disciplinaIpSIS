@@ -239,17 +239,11 @@ Fontes: [src](./Unidade5/src "src")
 
 ### [Aula_25](Unidade5/aula.md#Aula_25 "02-05-2022 segunda-feira") 02-05-2022 segunda-feira
 
-- comandos de controle de fluxo: repetição;  
-  - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
+- Semana Acadêmica  
 
 ### [Aula_26](Unidade5/aula.md#Aula_26 "02-05-2022 segunda-feira") 02-05-2022 segunda-feira
 
-- comandos de controle de fluxo: repetição;  
-  - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
-<!-- [ ] Aviso: conversa com os alunos <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-55423467> -->
-- conversa com os alunos (individualmente).  
+- Semana Acadêmica  
 
 ### [Aula_27](Unidade5/aula.md#Aula_27 "03-05-2022 terça-feira") 03-05-2022 terça-feira
 
@@ -257,11 +251,17 @@ Fontes: [src](./Unidade5/src "src")
 
 ### [Aula_28](Unidade5/aula.md#Aula_28 "09-05-2022 segunda-feira") 09-05-2022 segunda-feira
 
-- Semana Acadêmica  
+- comandos de controle de fluxo: repetição;  
+  - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for "atividadeAula-GrupoFor").  
 
 ### [Aula_29](Unidade5/aula.md#Aula_29 "09-05-2022 segunda-feira") 09-05-2022 segunda-feira
 
-- Semana Acadêmica  
+- comandos de controle de fluxo: repetição;  
+  - Grupo PARA (for): demonstração de exemplos: Java e VSCode;  
+    - [atividadeAula-GrupoFor](Unidade5/atividadeAula.md#grupo-para-for> "atividadeAula-GrupoFor").  
+<!-- [ ] Aviso: conversa com os alunos <https://github.com/lucianapda/disciplinaIPSegunda/projects/2#card-55423467> -->
+- conversa com os alunos (individualmente).  
 
 ### [Aula_30](Unidade5/aula.md#Aula_30 "10-05-2022 terça-feira") 10-05-2022 terça-feira
 
